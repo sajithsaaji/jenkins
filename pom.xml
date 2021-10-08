@@ -1,9 +1,6 @@
 <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.12</version>
-      <type>jar</type>
-      <scope>test</scope>
-      <optional>true</optional>
+      <groupId>emailing</groupId>
+      <artifactId>emailimg</artifactId>
+      <scope>compile</scope>
     </dependency>
